@@ -68,7 +68,7 @@ public class VisualizeSimulation extends JFrame {
 	public static void main(String[] args) {
 	    JFrame frame = new VisualizeSimulation();
 
-	    frame.setTitle("CSC 411 - Problem Set 02");
+	    frame.setTitle("AStar Search Algorithm");
 	    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	    frame.pack();
 	    frame.setVisible(true);
